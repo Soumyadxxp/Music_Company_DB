@@ -9,3 +9,5 @@ The main objective of this Database is to organise, retrieve and manage the song
 <img width="1280" height="808" alt="image" src="https://github.com/user-attachments/assets/c8007d5a-2eef-4de2-8170-d1f8bb4ba57a" />
 
 ## Relational Model :
+
+<img width="801" height="552" alt="image" src="https://github.com/user-attachments/assets/7297d376-523c-40d8-8b3b-6046910e8a49" />
